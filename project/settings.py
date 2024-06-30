@@ -1,3 +1,5 @@
+# type: ignore
+# flake8: noqa
 """
 Django settings for project project.
 
@@ -110,7 +112,7 @@ LANGUAGE_CODE = 'pt-br'
 
 TIME_ZONE = 'America/Sao_Paulo'
 
-USE_I18N = True
+USE_I18N = False  # porque não estamos usando
 
 USE_TZ = True
 
