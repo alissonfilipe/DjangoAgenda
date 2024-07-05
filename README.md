@@ -24,4 +24,4 @@ você deve colocar o import dela no arquivo `__init__.py`
 
 # o que foi feito
 
-- deletado as views para a crialção de um pacote
+- deletado as views para a criação de um pacote
